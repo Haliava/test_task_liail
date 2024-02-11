@@ -1,0 +1,6 @@
+.root {
+  margin: 10% auto;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
